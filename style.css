@@ -1,0 +1,14 @@
+body{
+    background-image: url('/ice-6215207_1920.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+   color: rgb(255, 251, 0);
+    text-align: center;
+    padding-top: 150px;
+}
+
+#time{
+    font-size: 100px;
+    font-weight: 700;
+}
+
